@@ -1,5 +1,5 @@
 # 💫 About Me:
-⏳Working on my computer science degree...<br>😇And love music, architecture and nature
+⏳Working on my computer science degree...<br>😇 Love music, architecture and nature
 
 
 # 💻 Tech Stack:
